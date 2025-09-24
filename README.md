@@ -74,7 +74,12 @@ SYSTEM_PROMPT = f"You are a helpful assistant. Respond as short as possible. You
 ```
 
 ## Contributions
-Feel free to contribute. This code is far from perfect and also we may need to package it accordingly for system-wide installation
+Feel free to contribute. This code is far from perfect and also we may need to package it accordingly for system-wide installation.
+Other ideas where you could contribute:
+- To include a command to google something then it doesn't have the right info
+- To include a funcionality to extract info given a URL
+- To actually run a command (for the brave only)
+- etc.
 
 ## License
 MIT License © Carlos Bravo
