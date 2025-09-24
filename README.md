@@ -73,6 +73,9 @@ BOT_NAME = "Jane"
 SYSTEM_PROMPT = f"You are a helpful assistant. Respond as short as possible. Your name is {BOT_NAME}"
 ```
 
+## Contributions
+Feel free to contribute. This code is far from perfect and also we may need to package it accordingly for system-wide installation
+
 ## License
 MIT License © Carlos Bravo
 
